@@ -37,3 +37,4 @@ function factorial(n) {
 }
 
 console.log("Factorial of " + num + " is: " + factorial(num));
+//npm install prompt-sync u need to run this command to install prompt to run in node.js environment
